@@ -9,6 +9,8 @@
 
 ## Chosen Software
 
+
+-**Software:** Git
 - **Operating System:** Ubuntu Linux  
 - **Shell:** Bash  
 
